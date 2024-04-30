@@ -1,4 +1,5 @@
 # HydrogelSoftRobitics
+[![DOI](https://zenodo.org/badge/793772616.svg)](https://zenodo.org/doi/10.5281/zenodo.11095018)
 Data analysis and embedded systems code developed as part of Hydrogel-Based, Skin Inspired Soft robotics project.
 ## main.c
 Embedded Systems Code for Baddler Robot
